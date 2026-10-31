@@ -1,0 +1,8 @@
+torch>=2.0
+transformers>=4.40
+librosa>=0.10
+soundfile>=0.12
+numpy
+sounddevice>=0.4      # microphone recording (optional)
+jiwer>=3.0            # Word Error Rate evaluation (optional)
+gradio>=4.0           # web demo (optional)
