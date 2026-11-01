@@ -1,0 +1,4 @@
+streamlit
+assemblyai
+audio-recorder-streamlit
+python-dotenv
